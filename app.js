@@ -46,7 +46,7 @@ function progressInterva(){
             button.style.height = "40px";
         },2000)
         setTimeout(()=>{
-            textBtn.textContent = "Nhím nhấn vào đây nha !"
+            textBtn.textContent = "Click Me!"
             textBtn.style.color = "#fff"
         },2500)
         setTimeout(()=>{
